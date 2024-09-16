@@ -9,11 +9,10 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-3CA03C.svg?style=for-the-badge&logo=qgis&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-%23008080.svg?style=for-the-badge&logoColor=white&label=YOLO)
 
 
 ## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?nibroosabrar=USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nibroosabrar&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?nibroosabrar=USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nibroosabrar&layout=compact&theme=dark)
 
