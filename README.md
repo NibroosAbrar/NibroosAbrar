@@ -16,5 +16,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nibroosabrar&layout=compact&theme=dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
+##
+![Profile Views](https://komarev.com/ghpvc/?username=nibroosabrar&color=blue)
 
