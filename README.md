@@ -1,5 +1,3 @@
-## 👋 Hi, I'm Nibroos Abrar!
-
 ## 🛠 My Interest:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
