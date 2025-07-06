@@ -10,5 +10,3 @@
 
 ##
 ![Profile Views](https://komarev.com/ghpvc/?username=nibroosabrar&color=blue)
-
-
