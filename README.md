@@ -7,14 +7,14 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/gear.gif" width="30" height="20"> Tech Stack:
 
-### Programming Languages
+#### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-### Web & App Development
+#### Web & App Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=white)
@@ -25,7 +25,7 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2F80ED?style=flat&logo=playwright&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-### Data Tools and Platforms
+#### Data Tools and Platforms
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white)
@@ -38,7 +38,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
-### Artificial Intelligence
+#### Artificial Intelligence
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-2962FF?style=flat&logo=opencv&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-006766?style=flat&logo=xgboost&logoColor=white)
@@ -52,11 +52,9 @@
 ![Google Cloud](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-### Embedded Systems & Tools
+#### Embedded Systems & Tools
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
-
-
 
 ## Stats:
 <div align="center">
