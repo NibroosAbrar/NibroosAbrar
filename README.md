@@ -1,4 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="20"> Hello World, I'm Nibroos
+"An aspiring data and AI practitioner with 1+ years of experience in machine learning and building data-driven applications."
 
 ## <img src="https://raw.githubusercontent.com/ABS-CBN-Development/common-emojis/main/handshake.gif" width="30" height="20"> Connect with Me:
 
