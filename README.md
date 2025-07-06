@@ -34,7 +34,7 @@ I’m enthusiastic about applying these skills in real-world settings, collabora
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=plastic&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-34495E?style=plastic&logo=seaborn&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
-![NiFi](https://img.shields.io/badge/Apache%20NiFi-FCA311?style=plastic&logo=apache-nifi&logoColor=white)
+![NiFi](https://img.shields.io/badge/NiFi-FCA311?style=plastic&logo=apache-nifi&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509ee3?style=plastic&logo=metabase&logoColor=white)
 ![Superset](https://img.shields.io/badge/Apache%20Superset-E24A0E?style=plastic&logo=apache-superset&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
