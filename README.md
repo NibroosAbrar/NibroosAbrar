@@ -1,5 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="20"> Hello World, I'm Nibroos
 
+## Connect with Me:
+
 ## Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nibroosabrar&show_icons=true&theme=dark" alt="GitHub Stats" width="495px">
