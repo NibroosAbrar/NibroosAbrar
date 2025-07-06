@@ -36,27 +36,27 @@ I’m enthusiastic about applying these skills in real-world settings, collabora
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 ![NiFi](https://img.shields.io/badge/NiFi-FCA311?style=plastic&logo=apache-nifi&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509ee3?style=plastic&logo=metabase&logoColor=white)
-![Superset](https://img.shields.io/badge/Apache%20Superset-E24A0E?style=plastic&logo=apache-superset&logoColor=white)
+![Superset](https://img.shields.io/badge/Superset-E24A0E?style=plastic&logo=apache-superset&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white)
 
 #### Artificial Intelligence
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-2962FF?style=flat&logo=opencv&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006766?style=flat&logo=xgboost&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-2E8B57?style=flat&logo=nltk&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-000000?style=flat&logo=google&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-2962FF?style=plastic&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006766?style=plastic&logo=xgboost&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-2E8B57?style=plastic&logo=nltk&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-000000?style=plastic&logo=google&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Vertex_AI-4285F4?style=plastic&logo=google-cloud&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
 
 #### Embedded Systems & Tools
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=plastic&logo=raspberry-pi&logoColor=white)
 
 ## 📊 GitHub Stats
 <div align="center">
