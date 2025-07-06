@@ -2,7 +2,7 @@
 
 <div align="center">
   ## Stats:
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nibroosabrar&show_icons=true&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=nibroosabrar&show_icons=true&theme=dark" alt="GitHub Stats" width="495px">
 </div>
 
 ##
