@@ -13,7 +13,6 @@
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-**Laragon**
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2F80ED?style=for-the-badge&logo=playwright&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -23,10 +22,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-2962FF?style=for-the-badge&logo=opencv&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-006766?style=for-the-badge&logo=xgboost&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-2E8B57?style=for-the-badge&logo=nltk&logoColor=white)
-**BERT**
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-000000?style=for-the-badge&logo=google&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-**Ultralytics**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -43,10 +40,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-34495E?style=for-the-badge&logo=seaborn&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-**Metabase**
-**Superset**
-**NiFi**
-**Beautiful Soup**
+![Metabase](https://img.shields.io/badge/Metabase-509ee3?style=for-the-badge&logo=metabase&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-E24A0E?style=for-the-badge&logo=apache-superset&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-FCA311?style=for-the-badge&logo=apache-nifi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
@@ -54,7 +50,7 @@
 ### Embedded Systems & Tools
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-**Putty**
+
 
 ## Stats:
 <div align="center">
