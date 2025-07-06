@@ -23,4 +23,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nibroosabrar&color=blue)
 
 
+## Aktivitas Coding Saya (WakaTime)
+
+---
+
+*Statistik ini diperbarui secara otomatis setiap hari oleh GitHub Actions.*
 
