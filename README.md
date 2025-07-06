@@ -4,7 +4,6 @@
 
 ## Stats:
 <div align="center">
-  ## Stats:
   <img src="https://github-readme-stats.vercel.app/api?username=nibroosabrar&show_icons=true&bg_color=0a0c10&text_color=E0E0E0&title_color=00C6FF&icon_color=A3FFD6&hide_border=true" alt="GitHub Stats" width="495px">
 </div>
 
