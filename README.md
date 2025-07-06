@@ -4,12 +4,12 @@
 
 ## Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nibroosabrar&show_icons=true&theme=dark" alt="GitHub Stats" width="495px">
+  <img src="https://github-readme-stats.vercel.app/api?username=nibroosabrar&show_icons=true&theme=radical" alt="GitHub Stats" width="495px">
 </div>
 
 ##
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibroosabrar&layout=compact&theme=dark" alt="GitHub Stats" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibroosabrar&layout=compact&theme=radical" alt="GitHub Stats" >
 </div>
 
 ##
