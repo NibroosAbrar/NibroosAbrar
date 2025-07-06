@@ -2,7 +2,7 @@
 > A data and AI practitioner with 1+ years of experience specializing in machine learning and building data-driven applications.
 
 ## 🌐 Let's Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnibroosabrar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnibroosabrar/)
 
 ## 👤 About Me
 I’m a recent graduate from IPB University with a Bachelor's degree in Agricultural and Biosystems Engineering. I have a strong foundation in data science, machine learning, and artificial intelligence.
