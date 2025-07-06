@@ -1,4 +1,4 @@
-## Hi there, I'm Muhammad Nibroos Abrar 👋
+# Hello World, I'm Nibroos ![Waving Hand](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 ## Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nibroosabrar&show_icons=true&theme=dark)
