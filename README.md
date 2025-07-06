@@ -2,11 +2,13 @@
 
 ## Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nibroosabrar&show_icons=true&theme=dark" alt="GitHub Stats" width="700px">
+  <img src="https://github-readme-stats.vercel.app/api?username=nibroosabrar&show_icons=true&theme=dark" alt="GitHub Stats" width="495px">
 </div>
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nibroosabrar&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibroosabrar&layout=compact&theme=dark">
+</div>
 
 ##
 ![Profile Views](https://komarev.com/ghpvc/?username=nibroosabrar&color=blue)
