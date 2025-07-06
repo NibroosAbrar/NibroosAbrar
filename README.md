@@ -1,17 +1,4 @@
 ## Hi there, I'm Muhammad Nibroos Abrar 👋
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-3CA03C.svg?style=for-the-badge&logo=qgis&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
 
 ## Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nibroosabrar&show_icons=true&theme=dark)
@@ -22,10 +9,4 @@
 ##
 ![Profile Views](https://komarev.com/ghpvc/?username=nibroosabrar&color=blue)
 
-
-## Aktivitas Coding Saya (WakaTime)
-
----
-
-*Statistik ini diperbarui secara otomatis setiap hari oleh GitHub Actions.*
 
