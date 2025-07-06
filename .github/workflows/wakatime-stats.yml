@@ -1,0 +1,27 @@
+name: WakaTime Readme Stats # Ini nama robot kita
+
+on:
+  workflow_dispatch: # Ini agar kita bisa menjalankan robot secara manual
+  schedule:
+    # Ini agar robot berjalan otomatis setiap hari pada jam 7 pagi WIB (00:00 UTC)
+    - cron: '0 0 * * *'
+
+jobs:
+  update-wakatime:
+    name: Update WakaTime Readme
+    runs-on: ubuntu-latest # Robot ini akan berjalan di sistem Linux
+    steps:
+      - uses: athul/waka-readme@master # Kita pakai alat khusus untuk WakaTime
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Robot pakai kunci rahasia yang tadi kita simpan
+          REPOSITORY: NibroosAbrar/NibroosAbrar # Ini adalah tempat robot akan bekerja (repositori profil Anda)
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token standar GitHub untuk robot
+          SHOW_TOTAL: true # Tampilkan total waktu coding
+          SHOW_TIME: true # Tampilkan waktu untuk setiap bahasa
+          SHOW_COMMIT: false # Tidak perlu menampilkan statistik commit GitHub (bisa diubah ke true jika mau)
+          SECTION_NAME: wakatime # Nama bagian di README.md yang akan diisi
+          # Anda bisa menambahkan opsi lain di sini jika mau nanti:
+          # LANG_RANGE: all_time # Untuk statistik sepanjang waktu (default: last_7_days)
+          # SHOW_PROFILE_VIEWS: true # Tampilkan jumlah pengunjung profil
+          # SHOW_SHORT_INFO: true # Tampilkan info singkat
+          # LANG_STATS_COUNT: 10 # Batasi jumlah bahasa yang ditampilkan (default: 5)
