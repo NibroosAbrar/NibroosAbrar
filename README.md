@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnibroosabrar/)
 
 ## 👤 About Me
-I’m a recent graduate from IPB University with a Bachelor's degree in Agricultural and Biosystems Engineering. I have a strong foundation in data science, machine learning, and artificial intelligence.
+I’m a recent graduate from IPB University with a Bachelor's degree in Engineering. I have a strong foundation in data science, machine learning, and artificial intelligence.
 
 Through academic studies and personal projects, I’ve developed hands-on experience in working with data, building predictive models, and communicating insights to support better decision-making.
 
