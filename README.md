@@ -18,7 +18,7 @@ I’m enthusiastic about applying these skills in real-world settings, collabora
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
-# ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
+<!--  ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white) -->
 
 #### Web & App Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
