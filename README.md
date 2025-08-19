@@ -17,7 +17,6 @@ I’m enthusiastic about applying these skills in real-world settings, collabora
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
 <!--  ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white) -->
 
 #### Web & App Development
@@ -47,7 +46,6 @@ I’m enthusiastic about applying these skills in real-world settings, collabora
 ![XGBoost](https://img.shields.io/badge/XGBoost-006766?style=plastic&logo=xgboost&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-2E8B57?style=plastic&logo=nltk&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-000000?style=plastic&logo=google&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
