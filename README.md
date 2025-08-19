@@ -24,6 +24,7 @@ I’m enthusiastic about applying these skills in real-world settings, collabora
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=plastic&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=plastic&logo=qt&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2F80ED?style=plastic&logo=playwright&logoColor=white)
 
@@ -49,8 +50,7 @@ I’m enthusiastic about applying these skills in real-world settings, collabora
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Vertex_AI-4285F4?style=plastic&logo=google-cloud&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
+
 
 #### Embedded Systems & Tools
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white)
