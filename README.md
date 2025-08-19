@@ -39,7 +39,6 @@ I’m enthusiastic about applying these skills in real-world settings, collabora
 ![Superset](https://img.shields.io/badge/Superset-E24A0E?style=plastic&logo=apache-superset&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white)
 
 #### Artificial Intelligence
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
