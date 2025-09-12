@@ -1,15 +1,10 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="20"> Hi There, I'm Nibroos!
 > A data and AI practitioner with 1+ years of experience specializing in machine learning and building data-driven applications.
 
+I'm a passionate Software Engineer and Data Enthusiast with a strong focus on delivering impactful solutions for the telecommunications, GIS, and data-driven industries. My expertise spans across backend engineering, cloud architecture, and building scalable systems, primarily using Golang, Python, and modern JavaScript frameworks. 
+
 ## 🌐 Let's Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnibroosabrar/)
-
-## 👤 About Me
-I’m a recent graduate from IPB University with a Bachelor's degree in Engineering. I have a strong foundation in data science, machine learning, and artificial intelligence.
-
-Through academic studies and personal projects, I’ve developed hands-on experience in working with data, building predictive models, and communicating insights to support better decision-making.
-
-I’m enthusiastic about applying these skills in real-world settings, collaborating within a team, and continuing to grow professionally. I’m currently seeking opportunities in data science or AI where I can contribute to meaningful projects and help turn data into clear, actionable insight.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="30" height="20" /> Tech Stack:
 
