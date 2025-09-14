@@ -10,7 +10,7 @@ I'm a passionate Software Engineer, AI, and Data Enthusiast with a strong focus 
 
 ### Technical Skills
 
-I have hands-on experience in software development, data engineering, and web-based application design. My technical skills include designing scalable backend systems, building RESTful APIs, implementing data pipelines, and developing geospatial and analytical solutions for business and telecommunication use cases. I am passionate about clean code, automation, and solving real-world problems with efficient algorithms.
+I have hands-on experience in software development, data engineering, and web-based application design. My technical skills include designing scalable backend systems, building RESTful APIs, implementing data pipelines, and developing geospatial and analytical solutions for business use cases. I am passionate about clean code, automation, and solving real-world problems with efficient algorithms.
 
 #### Programming Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
