@@ -1,16 +1,8 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="20"> Hi There, I'm Nibroos!
-> A Software Engineer, AI, and Data practitioner with 1+ years of experience specializing in machine learning and building data-driven applications.
-
-I'm a passionate Software Engineer, AI, and Data Enthusiast with a strong focus on delivering impactful solutions for the telecommunications, GIS, and data-driven industries. My expertise spans across backend engineering, cloud architecture, and building scalable systems, primarily using Golang, Python, and modern JavaScript frameworks. 
+> An AI Software Engineer with 1+ years of experience specializing in building data-driven applications.
 
 ## 🌐 Let's Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnibroosabrar/)
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="30" height="20" /> Tech Stack:
-
-### Technical Skills
-
-I have hands-on experience in software development, data engineering, and web-based application design. My technical skills include designing scalable backend systems, building RESTful APIs, implementing data pipelines, and developing geospatial and analytical solutions for business use cases. I am passionate about clean code, automation, and solving real-world problems with efficient algorithms.
 
 #### Programming Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
