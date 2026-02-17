@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="20"> Hi There, I'm Nibroos!
-> An AI Software Engineer with 2+ years of experience specializing in building data-driven and scalabale geospatial applications.
+> An AI Software Engineer specializing in building data-driven and scalabale geospatial applications.
 
 ## Programming Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
