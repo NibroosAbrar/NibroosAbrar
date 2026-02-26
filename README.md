@@ -21,6 +21,6 @@
 | Category | Tech & Tools |
 | :--- | :--- |
 | **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **Specialized** | ![Web Dev](https://img.shields.io/badge/-Web%20Developer-FFD700?style=flat-square) ![DevOps/DevSecOps](https://img.shields.io/badge/-DevOps-2496ED?style=flat-square) ![AI/ML](https://img.shields.io/badge/-AI/ML-FF5722?style=flat-square) ![Geospatial](https://img.shields.io/badge/-Geospatial-4CAF50?style=flat-square) |
+| **Specialized** | ![Web Dev](https://img.shields.io/badge/-Web%20Developer-FFD700?style=flat-square) ![DevOps/DevSecOps](https://img.shields.io/badge/-DevOps/DevSecOps-2496ED?style=flat-square) ![AI/ML](https://img.shields.io/badge/-AI/ML-FF5722?style=flat-square) ![Geospatial](https://img.shields.io/badge/-Geospatial-4CAF50?style=flat-square) |
 
 ---
