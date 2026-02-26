@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 The Mission
-> **AI Software Engineer** specialized in architecting data-driven geospatial applications. I bridge the gap between complex spatial data and scalable, intelligent solutions.
+> **Software Engineer** experienced in building scalable full-stack applications and automated pipelines, with specialized expertise in AI/ML and Geospatial solutions.
 
 ---
 
