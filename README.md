@@ -11,7 +11,6 @@
 
 ---
 
-### 🚀 The Mission
 > **Software Engineer** experienced in building scalable full-stack applications and automated pipelines, with specialized expertise in AI/ML and Geospatial solutions.
 
 ---
