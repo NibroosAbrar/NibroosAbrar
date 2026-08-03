@@ -26,5 +26,5 @@
 
 <p align="left">
   <img src="https://github-readme-stats-one.vercel.app/api?username=NibroosAbrar&show_icons=true&theme=tokyonight&count_private=true" alt="Nibroos's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=NibroosAbrar&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=NibroosAbrar&layout=compact&theme=tokyonight&langs_count=6&count_private=true&hide=Jupyter%20Notebook" alt="Top Languages" height="180" />
 </p>
