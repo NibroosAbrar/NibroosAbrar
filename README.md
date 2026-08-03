@@ -25,5 +25,6 @@
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="github-metrics-new.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://github-readme-stats-jade-ten-25.vercel.app/api?username=NibroosAbrar&show_icons=true&theme=tokyonight&count_private=true" alt="Nibroos's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-jade-ten-25.vercel.app/api/top-langs/?username=NibroosAbrar&layout=compact&theme=tokyonight&langs_count=6&count_private=true&hide=Jupyter%20Notebook" alt="Top Languages" height="180" />
 </p>
