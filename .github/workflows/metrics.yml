@@ -14,7 +14,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: NibroosAbrar
-          filename: github-metrics.svg
+          filename: github-metrics-new.svg
           template: classic
           
           # Matikan semua info teks bawaan yang bikin penuh
